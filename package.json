@@ -14,11 +14,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "body-parser": "^1.15.2",
+    "crypto-js": "^3.1.9-1",
     "express": "^4.14.0",
+    "hackerearth-node": "^2.3.9",
+    "jsonwebtoken": "^8.2.0",
     "lodash": "^4.15.0",
     "mongodb": "^2.2.5",
-    "mongoose": "^4.13.11"
+    "mongoose": "^4.13.11",
+    "validator": "^9.4.1"
   },
   "devDependencies": {
     "expect": "^1.20.2",
